@@ -3,8 +3,8 @@ Este es un scrip basado en bash. Es un Scanner de indentidad con el que podras b
 
 POR QUE EL CONOCIMIENTO DEBE SER LIBRE
 
-~~~~~~~~~~~~~~~~ COMANDOS ~~~~~~~~~~~~~~~~
 
+### Usage:
 ```
 $ apt update && apt upgrade
 
