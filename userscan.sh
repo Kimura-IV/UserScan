@@ -1,7 +1,7 @@
 #!/bin/bash
 # UserScan v1.0
-# Author: @linux_choice
-# https://github.com/thelinuxchoice/userrecon
+# Author: @JoeTech-Studio
+# https://github.com/JoeTech-Studio/userscan
 # Give me the credits if you use any part of this code, read the License.
 
 trap 'printf "\n";partial;exit 1' 2
