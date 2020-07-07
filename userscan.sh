@@ -18,7 +18,9 @@ printf "\e[1;77m | |_| \__ \  __/ |   \__ \/ (_| (_) \| | | | \e[0m\e[1;92m\    
 printf "\e[1;77m  \___/|___/\___|_|   |___/ \___\___/\|_| |_|  \e[0m\e[1;92m\        / \e[0m\n"
 printf "              \e[1;92mV1.0, Author: @JoeTech Studio  \e[0m   \e[1;92m\  __  / \e[0m\n"
 printf "                                                 \e[1;92m'.__.' \e[0m\n"
-                                                
+printf "Redes Sociales: "
+print("Youtube: http://www.youtube.com/c/JoeTechStudio")
+print("Telegram: t.me/JoeTechStudio")
 
 
 }
