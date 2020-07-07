@@ -17,10 +17,9 @@ printf "\e[1;77m | | | / __|/ _ \ '__\  __| / __/ _ \ | '_ \ \e[0m\e[1;92m|\__\ 
 printf "\e[1;77m | |_| \__ \  __/ |   \__ \/ (_| (_) \| | | | \e[0m\e[1;92m\    ||    / \e[0m\n"
 printf "\e[1;77m  \___/|___/\___|_|   |___/ \___\___/\|_| |_|  \e[0m\e[1;92m\        / \e[0m\n"
 printf "              \e[1;92mV1.0, Author: @JoeTech Studio  \e[0m   \e[1;92m\  __  / \e[0m\n"
-printf "                                                 \e[1;92m'.__.' \e[0m\n"
-printf "\nRedes Sociales: \n"
-printf "Youtube: http://www.youtube.com/c/JoeTechStudio \n"
-printf "Telegram: t.me/JoeTechStudio \n"
+printf " Redes Sociales:                                 \e[1;92m'.__.' \e[0m\n"
+printf " Youtube: http://www.youtube.com/c/JoeTechStudio \n"
+printf " Telegram: t.me/JoeTechStudio \n\n"
 
 
 }
