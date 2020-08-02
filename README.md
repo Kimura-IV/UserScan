@@ -12,7 +12,7 @@ $ apt install git
 
 $ cd userscan
 
-$ bash userscan
+$ bash userscan.sh
 ```
 
 ############## REDES SOCIALES ##############
