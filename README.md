@@ -3,6 +3,7 @@ Este es un scrip basado en bash. Es un Scanner de indentidad con el que podras b
 
 POR QUE EL CONOCIMIENTO DEBE SER LIBRE
 
+![](https://i.imgur.com/F7IMkmX.jpg)
 
 ### Comandos Para Su Ejecucion:
 ```
