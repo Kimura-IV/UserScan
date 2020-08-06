@@ -5,7 +5,7 @@ POR QUE EL CONOCIMIENTO DEBE SER LIBRE
 
 ![](https://i.imgur.com/F7IMkmX.jpg)
 
-### Comandos Para Su Ejecucion:
+# Comandos Para Su Ejecucion:
 ```
 $ apt update && apt upgrade
 
@@ -16,7 +16,7 @@ $ cd userscan
 $ bash userscan.sh
 ```
 
-############## REDES SOCIALES ##############
+# REDES SOCIALES
 
 # Suscríbete a este canal así crecemos más:
 http://www.youtube.com/c/JoeTechStudio
