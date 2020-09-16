@@ -11,6 +11,8 @@ $ apt update && apt upgrade
 
 $ apt install git
 
+$ git clone https://github.com/JoeTech-Studio/UserScan.git
+
 $ cd userscan
 
 $ bash userscan.sh
